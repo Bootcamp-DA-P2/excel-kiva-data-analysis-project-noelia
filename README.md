@@ -10,7 +10,7 @@ The objective is to understand how microloans are distributed globally by countr
 
 ## 📸 Dashboard Preview
 
-![Dashboard](./dashboard.png)
+![Dashboard](./docs/dashboard.png)
 
 ---
 
@@ -117,8 +117,4 @@ This project demonstrates how Excel can be used as a powerful tool for data anal
 
 **Noelia Sánchez**
 
-
-## 👩‍💻 Author
-
-**Noelia Sánchez**
 
