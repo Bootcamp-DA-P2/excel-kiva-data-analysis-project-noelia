@@ -75,10 +75,17 @@ The objective is to understand how microloans are distributed globally by countr
 
 ## 🎯 Key KPIs
 
-* 💰 Total Loan Amount: **€173M**
-* 📊 Total Number of Loans: **26,622**
-* 📉 Average Loan Amount: **€8,438**
-* 🌍 Number of Countries: **42**
+* 💰 Total Loan Amount: **€357M**
+* 📊 Total Number of Loans: **42,308**
+* 📉 Average Loan Amount: **€8,443**
+* 🌍 Number of Countries: **75**
+
+## 📦 Loan Distribution
+
+* Micro Loans: **50.5%**
+* Small Loans: **26.2%**
+* Medium Loans: **17.7%**
+* Large Loans: **5.6%**
 
 ---
 
