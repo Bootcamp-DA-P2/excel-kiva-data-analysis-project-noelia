@@ -10,7 +10,7 @@ The objective is to understand how microloans are distributed globally by countr
 
 ## 📸 Dashboard Preview
 
-![Dashboard](docs/Dashboard.png)
+![Dashboard]
 
 ---
 
